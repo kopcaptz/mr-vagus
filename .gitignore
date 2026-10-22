@@ -1,0 +1,12 @@
+ACTIVE_TASK.json
+.local/
+.objective-lock/
+.sites-runtime/
+.sites-checkout/
+node_modules/
+.DS_Store
+.env*
+*.tar.gz
+
+# Sites registration is parked while the owner works in GitHub.
+.openai/
