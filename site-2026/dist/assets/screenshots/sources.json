@@ -1,0 +1,92 @@
+[
+  {
+    "project": "rtxc",
+    "src": "assets/screenshots/rtxc.jpg",
+    "alt": "Actual screenshot of the rtxc public demo, captured from its public page",
+    "caption": "ACTUAL SCREENSHOT · PUBLIC DEMO",
+    "sourceUrl": "https://kopcaptz.github.io/hp-rtxc-5hx/index.html?view=cutaway3d",
+    "capturedAt": "2026-10-22",
+    "captureViewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "sha256": "3f7f525b1b3c087edc6419db1759e71947acd6fef76a6aff85ed5c04552f0176",
+    "processing": "none; raw Chrome viewport JPEG",
+    "state": "Full internal cutaway camera, page scrolled to model; normal demo"
+  },
+  {
+    "project": "pult",
+    "src": "assets/screenshots/pult.jpg",
+    "alt": "Actual screenshot of the pult public concept page, captured from its public page",
+    "caption": "ACTUAL SCREENSHOT · PUBLIC CONCEPT PAGE",
+    "sourceUrl": "https://kopcaptz.github.io/mr-vagus/projects/pult.html",
+    "capturedAt": "2026-10-22",
+    "captureViewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "sha256": "83ad5867beb6a900f3d666a1df83f889106b8aab7c83e701d77357d104464ffe",
+    "processing": "none; raw Chrome viewport JPEG",
+    "state": "Public page initial view"
+  },
+  {
+    "project": "catering",
+    "src": "assets/screenshots/catering.jpg",
+    "alt": "Actual screenshot of the catering public demo, captured from its public page",
+    "caption": "ACTUAL SCREENSHOT · PUBLIC DEMO",
+    "sourceUrl": "https://kopcaptz.github.io/catering-factory-demo/mesa-lumbre/en/index.html",
+    "capturedAt": "2026-10-22",
+    "captureViewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "sha256": "feb48ba6d689e0a931e42eaf1091f75386b1a7071dfa3b628e1bf93cfbac867e",
+    "processing": "none; raw Chrome viewport JPEG",
+    "state": "Public page initial view"
+  },
+  {
+    "project": "boiler",
+    "src": "assets/screenshots/boiler.jpg",
+    "alt": "Actual screenshot of the boiler public demo, captured from its public page",
+    "caption": "ACTUAL SCREENSHOT · PUBLIC DEMO",
+    "sourceUrl": "https://kopcaptz.github.io/chocolate-factory-boiler-concept/",
+    "capturedAt": "2026-10-22",
+    "captureViewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "sha256": "70e4966ed9ea26e6a521ee3c08c8f7191c505b9b0b7c7a7648df5361c0c817a8",
+    "processing": "none; raw Chrome viewport JPEG",
+    "state": "Public page initial view"
+  },
+  {
+    "project": "compressor",
+    "src": "assets/screenshots/compressor.jpg",
+    "alt": "Actual screenshot of the compressor public concept page, captured from its public page",
+    "caption": "ACTUAL SCREENSHOT · PUBLIC CONCEPT PAGE",
+    "sourceUrl": "https://kopcaptz.github.io/mr-vagus/projects/compressor.html",
+    "capturedAt": "2026-10-22",
+    "captureViewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "sha256": "573e6559abad5e2fcca7b34ff41f9720dbf065f523e2f1520ae37fe5299cccf3",
+    "processing": "none; raw Chrome viewport JPEG",
+    "state": "Public page initial view"
+  },
+  {
+    "project": "booking",
+    "src": "assets/screenshots/booking.jpg",
+    "alt": "Actual screenshot of the booking public concept page, captured from its public page",
+    "caption": "ACTUAL SCREENSHOT · PUBLIC CONCEPT PAGE",
+    "sourceUrl": "https://kopcaptz.github.io/mr-vagus/projects/booking.html",
+    "capturedAt": "2026-10-22",
+    "captureViewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "sha256": "fcf5f8190593b582dc5d18d80161c5e783a7991cb12f699edf281a200fbf61ea",
+    "processing": "none; raw Chrome viewport JPEG",
+    "state": "Public page initial view"
+  }
+]
